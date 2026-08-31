@@ -1,0 +1,17 @@
+feature,importance
+total_data_volume_kb,0.2883011790300887
+suspicious_tool_count,0.23417939369675772
+max_permission_level,0.1272825094217734
+external_call_count,0.08151300686834523
+max_latency_ms,0.0715506947303569
+mean_latency_ms,0.03235449763998073
+error_rate,0.02986670848834219
+event_count,0.025381315668633917
+unique_tool_count,0.02071254842750198
+retrieval_count,0.018078164726629188
+privileged_action_count,0.01754414535318699
+handoff_count,0.016569213630980458
+untrusted_retrieval_count,0.014345864595092798
+tool_call_count,0.012320350063919584
+instruction_override_count,0.007821345155421574
+agent_count,0.0021790625029886605
